@@ -551,6 +551,3 @@ The main objectives of this project are to:
 
 ---
 
-## 👨‍💻 Developer
-
-**KAZ**
